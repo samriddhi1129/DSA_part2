@@ -1,6 +1,6 @@
 public class sum{
     public static void main(String[] args) {
-        int n = 1234;
+        int n = 1234; // 1-2+3-4
         int c = count(n,0);
         System.out.println(alternate(n,0,c));
     }
