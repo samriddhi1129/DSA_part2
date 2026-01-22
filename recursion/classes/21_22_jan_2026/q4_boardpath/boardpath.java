@@ -21,5 +21,8 @@ public class boardpath {
         // path(n, curr+2, ans+2);
         // path(n, curr+3, ans+3);
 
+        //dice agr ek array ho toh bas jaha bhi dice ho waha dice[i] ayega
+        
+
     }
 }
